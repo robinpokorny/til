@@ -12,6 +12,7 @@ A collection of my small everyday **Today I Learned** blibs
 
 ### Browse by topic:
 - [github](../..//discussions?discussions_q=label%3Agithub)
+- [typescript](../..//discussions?discussions_q=label%3Atypescript)
 
 ### About this repo
 This repo uses GitHub Discussions to share the TILs. While only I can add new posts, everybody can comment on them. Did you know you can learn more than one thing in a day? :sweat_smile:
