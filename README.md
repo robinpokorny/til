@@ -11,9 +11,12 @@ A collection of my small everyday **Today I Learned** blibs
 > I hope you might find something new, too!
 
 ### Browse by topic:
-- [github](../..//discussions?discussions_q=label%3Agithub)
-- [kotlin](../..//discussions?discussions_q=label%3Akotlin)
-- [typescript](../..//discussions?discussions_q=label%3Atypescript)
+_(Links to filter of that label.)_
+
+- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](../..//discussions?discussions_q=label%3Agithub)
+- [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](../..//discussions?discussions_q=label%3Akotlin)
+- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+](../..//discussions?discussions_q=label%3Atypescript)
 
 ### About this repo
 This repo uses GitHub Discussions to share the TILs. While only I can add new posts, everybody can comment on them. Did you know you can learn more than one thing in a day? :sweat_smile:
