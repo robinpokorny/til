@@ -12,6 +12,7 @@ A collection of my small everyday **Today I Learned** blibs
 
 ### Browse by topic:
 - [github](../..//discussions?discussions_q=label%3Agithub)
+- [kotlin](../..//discussions?discussions_q=label%3Akotlin)
 - [typescript](../..//discussions?discussions_q=label%3Atypescript)
 
 ### About this repo
